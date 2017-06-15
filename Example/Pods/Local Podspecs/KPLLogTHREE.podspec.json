@@ -1,0 +1,22 @@
+{
+  "name": "KPLLogTHREE",
+  "version": "0.1.0",
+  "summary": "A short description of KPLLogTHREE.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrXiaoYang/KPLLogTHREE",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrXiaoYang": "582385082@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MrXiaoYang/KPLLogTHREE.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KPLLogTHREE/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_KPLLogTHREE_Example {
+  umbrella header "Pods-KPLLogTHREE_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

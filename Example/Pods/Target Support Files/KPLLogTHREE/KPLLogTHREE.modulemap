@@ -1,0 +1,6 @@
+framework module KPLLogTHREE {
+  umbrella header "KPLLogTHREE-umbrella.h"
+
+  export *
+  module * { export * }
+}
